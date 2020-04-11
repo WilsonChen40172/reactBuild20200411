@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/WilsonChen40172/reactBuild20200411/static/css/main.4e2eb8fe.chunk.css",
-    "main.js": "/WilsonChen40172/reactBuild20200411/static/js/main.886473f6.chunk.js",
-    "main.js.map": "/WilsonChen40172/reactBuild20200411/static/js/main.886473f6.chunk.js.map",
-    "runtime-main.js": "/WilsonChen40172/reactBuild20200411/static/js/runtime-main.2e18cbec.js",
-    "runtime-main.js.map": "/WilsonChen40172/reactBuild20200411/static/js/runtime-main.2e18cbec.js.map",
-    "static/js/2.2277bd71.chunk.js": "/WilsonChen40172/reactBuild20200411/static/js/2.2277bd71.chunk.js",
-    "static/js/2.2277bd71.chunk.js.map": "/WilsonChen40172/reactBuild20200411/static/js/2.2277bd71.chunk.js.map",
-    "index.html": "/WilsonChen40172/reactBuild20200411/index.html",
-    "precache-manifest.d1ec23450788c306686cac3dc2687236.js": "/WilsonChen40172/reactBuild20200411/precache-manifest.d1ec23450788c306686cac3dc2687236.js",
-    "service-worker.js": "/WilsonChen40172/reactBuild20200411/service-worker.js",
-    "static/css/main.4e2eb8fe.chunk.css.map": "/WilsonChen40172/reactBuild20200411/static/css/main.4e2eb8fe.chunk.css.map",
-    "static/js/2.2277bd71.chunk.js.LICENSE.txt": "/WilsonChen40172/reactBuild20200411/static/js/2.2277bd71.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/WilsonChen40172/reactBuild20200411/static/media/logo.5d5d9eef.svg"
+    "main.css": "./static/css/main.4e2eb8fe.chunk.css",
+    "main.js": "./static/js/main.7e4e8418.chunk.js",
+    "main.js.map": "./static/js/main.7e4e8418.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3166713f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3166713f.js.map",
+    "static/js/2.2277bd71.chunk.js": "./static/js/2.2277bd71.chunk.js",
+    "static/js/2.2277bd71.chunk.js.map": "./static/js/2.2277bd71.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.11049bf9210eef3614511ad0ac6b7688.js": "./precache-manifest.11049bf9210eef3614511ad0ac6b7688.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.4e2eb8fe.chunk.css.map": "./static/css/main.4e2eb8fe.chunk.css.map",
+    "static/js/2.2277bd71.chunk.js.LICENSE.txt": "./static/js/2.2277bd71.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e18cbec.js",
+    "static/js/runtime-main.3166713f.js",
     "static/js/2.2277bd71.chunk.js",
     "static/css/main.4e2eb8fe.chunk.css",
-    "static/js/main.886473f6.chunk.js"
+    "static/js/main.7e4e8418.chunk.js"
   ]
 }
